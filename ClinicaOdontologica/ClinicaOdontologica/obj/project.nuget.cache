@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/4wHXWQh+Z2RvOBSXdu9P+MdCbiSkQf8r5pGaqa3j+gsh1ZKKEOTXFe6ouPpB6dGJO4AEbOu62Xzitm5LULgmg==",
+  "dgSpecHash": "KNCfeXQECsLpilfeLpQQv8DmEe9mLARlvHgS75nonFpqop8kDBC5fHvw11ZRW6kAVEm718/WKLoIs437NQyI6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj",
+  "projectFilePath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta\\ClinicaOdontologica-main\\ClinicaOdontologica-main\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
-    "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
-    "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.11\\microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
+    "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
+    "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
+    "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\Mbg19\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",

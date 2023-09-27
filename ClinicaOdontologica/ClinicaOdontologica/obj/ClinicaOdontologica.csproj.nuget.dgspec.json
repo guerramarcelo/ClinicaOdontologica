@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj": {}
+    "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta\\ClinicaOdontologica-main\\ClinicaOdontologica-main\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj": {
+    "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta\\ClinicaOdontologica-main\\ClinicaOdontologica-main\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj",
+        "projectUniqueName": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta\\ClinicaOdontologica-main\\ClinicaOdontologica-main\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj",
         "projectName": "ClinicaOdontologica",
-        "projectPath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj",
+        "projectPath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta\\ClinicaOdontologica-main\\ClinicaOdontologica-main\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica.csproj",
         "packagesPath": "C:\\Users\\Mbg19\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta (2)\\ClinicaOdontologica\\ClinicaOdontologica\\ClinicaOdontologica\\obj\\",
+        "outputPath": "C:\\Users\\Mbg19\\OneDrive\\Área de Trabalho\\Nova pasta\\ClinicaOdontologica-main\\ClinicaOdontologica-main\\ClinicaOdontologica\\ClinicaOdontologica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mbg19\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[7.0.10, )"
             }
           },
           "imports": [

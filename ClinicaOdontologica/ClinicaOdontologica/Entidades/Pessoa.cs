@@ -1,6 +1,6 @@
-﻿using ClinicaOdontologica.Utils;
+﻿using Clinica.Utils;
 
-namespace ClinicaOdontologica.Entidades
+namespace Clinica.Entidades
 {
     public abstract class Pessoa
     {
@@ -13,23 +13,23 @@ namespace ClinicaOdontologica.Entidades
 
         protected Pessoa(string nome, Endereco endereco, string telefone, string senha, string email)
         {
-            if (!Clinica.Utils.ValidacaoUtil.ValidaEmail(email))
+            if (!ValidacaoUtil.ValidaEmail(email))
                 throw new Exception("Email inválido!");
-            if (!Utils.ValidacaoUtil.ValidaTelefone(telefone))
+            if (!ValidacaoUtil.ValidaTelefone(telefone))
                 throw new Exception("Telefone inválido!");
 
             Nome = nome;
             Endereco = endereco;
             Telefone = telefone;
             Id = Guid.NewGuid();
-            Senha = Utils.CriptografiaUtil.CriptografarSenha(senha);
+            Senha = CriptografiaUtil.CriptografarSenha(senha);
             Email = email;
         }
-        public Pessoa() { }
+        public Pessoa(){}
 
         public bool Autenticar(string email, string senha)
         {
-            if ((Email == email) && (Senha == Utils.CriptografiaUtil.CriptografarSenha(senha)))
+            if ((Email == email) && (Senha == CriptografiaUtil.CriptografarSenha(senha)))
             {
                 return true;
             }

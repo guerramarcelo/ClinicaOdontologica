@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
 
 namespace ClinicaOdontologica
 {
-    internal class ClinicaDbContext
+    public class ClinicaDbContext : DbContext
     {
+        public ClinicaDbContext(DbContextOptions<ClinicaDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Paciente> Pacientes { get; set; }
+        public DbSet<Dentista> Dentistas { get; set; }
+        public DbSet<Consulta> Consultas { get; set; }
+        public DbSet<Clinica> Clinicas { get; set; }
     }
 }
